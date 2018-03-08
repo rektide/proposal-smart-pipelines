@@ -1,5 +1,5 @@
 # Smart pipelines
-ECMAScript Stage-0 Proposal. Living Document. J. S. Choi, 2018-02.
+ECMAScript Stage-(-1) Anti-Proposal. Living Document. rektide, 2018-03.
 
 Don't do any of this.
 
